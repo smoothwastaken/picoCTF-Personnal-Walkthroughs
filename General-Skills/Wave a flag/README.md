@@ -20,6 +20,6 @@ As we see, this is an `ELF` file so an executable.
 
 I used the `strings` command to read through the file and maybe understand how this executable works:
 
-*See the `strings-command.png` image in the current directory.*
+![string command output and the flag in clear text.](https://github.com/smoothwastaken/picoCTF-Personnal-Walkthroughs/blob/master/General-Skills/Wave%20a%20flag/strings-command.png?raw=true)
 
 And here's the flag !
