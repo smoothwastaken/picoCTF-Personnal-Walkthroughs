@@ -35,8 +35,6 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Welcome !
-
 This repository is my personnal walkthroughs of the CTF challenges from the [picoCTF website](https://picoctf.org/).
 
 I _never_ wrote any walkthrough in my **entire** life, so I though that starting with these ones (CTFs) could be an interresting start !
@@ -49,6 +47,8 @@ I _never_ wrote any walkthrough in my **entire** life, so I though that starting
 I hope that this quick introduction make\ all of this crystal clear. Again, this is my first time, so don't hesitate noticing me errors or your misunderstading, I will do the more I can to help you understand. If you have any question, ask in the [issue github section](https://github.com/smoothwastaken/picoCTF-Personnal-Walkthroughs/issues?q=) !
 
 Thanks for your attention and have a **nice** reading !
+
+*PS: All the flag that I find will not be shown entirely. You have to find these by yourself. This is the best way to learn !*
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
