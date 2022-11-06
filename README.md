@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <a href="" rel="noopener">
- <img width=267px height=80px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseek-er.medium.com%2Fpico-ctf-general-skills-walkthrough-5ad3f64c30a8&psig=AOvVaw0i-bXmN5oOnxYDx_vfR9H5&ust=1667819217245000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLj-8_K0mfsCFQAAAAAdAAAAABAD" alt="Project logo"></a>
+ <img width=267px height=80px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseek-er.medium.com%2Fpico-ctf-general-skills-walkthrough-5ad3f64c30a8&psig=AOvVaw0i-bXmN5oOnxYDx_vfR9H5&ust=1667819217245000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLj-8_K0mfsCFQAAAAAdAAAAABAD" alt="PicoCTF logo"></a>
 </p>
 
 <h3 align="center">@smoothwastaken/picoCTF-Personnal-Walkthroughs</h3>
@@ -26,11 +26,11 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
 <!-- - [Usage](#usage) -->
 <!-- - [Todo](TODO.md) -->
 <!-- - [Contributing](CONTRIBUTING.md) -->
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
 
 
 ## 🧐 About <a name = "about"></a>
@@ -72,7 +72,7 @@ We recommend storing your references in JSON format as it is highly compatible w
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@smoothwastaken/me](https://github.com/Natedeploys)
+- [@smoothwastaken/me](https://github.com/smoothwastaken)
 
 I'm worked in solo !
 
