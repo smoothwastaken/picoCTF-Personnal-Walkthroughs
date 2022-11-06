@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <a href="" rel="noopener">
- <img width=267px height=80px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseek-er.medium.com%2Fpico-ctf-general-skills-walkthrough-5ad3f64c30a8&psig=AOvVaw0i-bXmN5oOnxYDx_vfR9H5&ust=1667819217245000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLj-8_K0mfsCFQAAAAAdAAAAABAD" alt="PicoCTF logo"></a>
+ <img width=267px height=80px src="https://miro.medium.com/max/828/1*0FYnt8IngPu-OTy5CGjFZg.png" alt="PicoCTF logo"></a>
 </p>
 
 <h3 align="center">@smoothwastaken/picoCTF-Personnal-Walkthroughs</h3>
